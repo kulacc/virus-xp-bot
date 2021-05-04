@@ -1,5 +1,8 @@
+# Görseller:
+<img src="https://cdn.discordapp.com/attachments/834125662565564426/839287598224506920/unknown.png">
+
 # Gerekli Ayarlar
-`serverConfig.js` dosyamıza gelerek botun bilgilerini ayarlıyoruz.
+`serverConfig.js` dosyasına gelerek botun bilgilerini ayarlıyoruz.
 Örnek;
 ```js
 const serverConfig = {
@@ -13,4 +16,8 @@ module.exports = serverConfig;
 ```
 Artık botun hazır 🥳. Dilediğin gibi kullanabilirsin.
 
-`🏆 Bu Bot Lisans İle Korunmaktadır`
+# İletişim
+* [Discord Profilim](https://discord.com/users/487251264984449034)
+* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
+
+###`🏆 Bu Bot Lisans İle Korunmaktadır. Dosyaların paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!`
