@@ -1,0 +1,27 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "vivus",
+  "main": "virus.js",
+  "scripts": {
+    "start": "node virus.js"
+  },
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "discord.js": "^12.5.3",
+    "join": "^3.0.0",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
