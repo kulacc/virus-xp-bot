@@ -7,10 +7,10 @@ const serverConfig = {
   prefix: "!",
   sahip:"487251264984449034",
   levelLog:"838064466376917052",
-  xpMsg:"tebrikler -member-, -seviye- leveline ulaştın 🏆"
+  xpMsg:"tebrikler -member-, -seviye- leveline ulaştın"
 };
 module.exports = serverConfig;
 ```
-NOT: Eğer kısımları doldurmazsanız bot hata verecektir!
-
 Artık botun hazır 🥳. Dilediğin gibi kullanabilirsin.
+
+`🏆 Bu Bot Lisans İle Korunmaktadır`
