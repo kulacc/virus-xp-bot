@@ -20,4 +20,4 @@ Artık botun hazır 🥳. Dilediğin gibi kullanabilirsin.
 * [Discord Profilim](https://discord.com/users/487251264984449034)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
-###`🏆 Bu Bot Lisans İle Korunmaktadır. Dosyaların paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!`
+### 🏆 Bu Bot Lisans İle Korunmaktadır. Dosyaların paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
