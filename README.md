@@ -1,5 +1,3 @@
-# Discord Mesaj İstatistik Bot
-
 # Gerekli Ayarlar
 `serverConfig.js` dosyamıza gelerek botun bilgilerini ayarlıyoruz.
 Örnek;
